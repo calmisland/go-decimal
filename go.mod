@@ -1,3 +1,3 @@
-module github.com/shopspring/decimal
+module github.com/calmisland/go-decimal
 
 go 1.13
